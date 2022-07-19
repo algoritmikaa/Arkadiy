@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header {
+    background-color: greenyellow;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+    top: 20px
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    background-image: linear-gradient(yellowgreen, lightgreen);
+}
+
+header {
+    background-color: chartreuse;
+    height: 70px;
+}
